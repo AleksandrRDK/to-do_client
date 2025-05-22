@@ -6,7 +6,7 @@
 ## 🔗 Демо
 
 🟢 Доступно по адресу:
-[https://AleksandrRDK.github.io/to-do_list](https://AleksandrRDK.github.io/to-do_list)
+[https://AleksandrRDK.github.io/to-do_client](https://AleksandrRDK.github.io/to-do_client)
 
 ---
 
