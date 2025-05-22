@@ -2,7 +2,7 @@
     "name": "to-do-list",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://AleksandrRDK.github.io/to-do_list",
+    "homepage": "https://AleksandrRDK.github.io/to-do_client",
     "dependencies": {
         "@reduxjs/toolkit": "^2.2.5",
         "@testing-library/jest-dom": "^6.4.5",
