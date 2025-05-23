@@ -1,6 +1,6 @@
 import { createApi } from '@reduxjs/toolkit/query/react';
 
-const baseUrl = 'http://localhost:5000/api';
+const baseUrl = 'https://to-doserver-production.up.railway.app/';
 
 const customBaseQuery = async ({ url, method, body }) => {
     try {
